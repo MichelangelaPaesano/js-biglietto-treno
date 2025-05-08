@@ -17,3 +17,7 @@ if (eta < 18) {
     console.log (`${finalprice.toFixed(2)}`)
 }
 
+// operazioni fatte: 
+// > 65 = biglietto * 0.6
+// < 18 = biglietto * 0.8
+// altrimenti biglietto * prezzobase
